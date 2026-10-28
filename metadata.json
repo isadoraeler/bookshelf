@@ -1,0 +1,6 @@
+{
+  "name": "BookShelf",
+  "description": "Uma aplicação simples e intuitiva para quem está começando a organizar sua rotina e histórico de leituras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
